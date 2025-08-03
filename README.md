@@ -27,8 +27,8 @@ Built with:
 
 ## Live Demo & Blog
 
-- 🌐 **Live Demo**: [here](#)
-- ✍️ **Blog Post**: [Read about how it was built](#)
+- 🌐 **Live Demo**: [here](https://sketch-and-scribble.vercel.app/)
+- ✍️ **Blog Post**: [Read about how it was built](https://dev.to/pranamyark/sketch-n-scribble-scene-and-dialogue-generator-using-google-ai-studio-3ep9)
 
 
 ## Dependencies
