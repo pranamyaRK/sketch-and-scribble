@@ -1,0 +1,6 @@
+{
+  "name": "Narrative Scene & Dialogue Generator",
+  "description": "Describe a fantasy world or RPG scenario, and this application will use AI to auto-generate compelling character dialogues and visualize the scene.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
